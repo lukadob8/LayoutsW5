@@ -1,0 +1,17 @@
+#topContent {
+    border-bottom: 2px solid black;
+    padding-bottom: 5vw;
+}
+
+#Text1 {
+    display: inline-block;
+    width: 60vw;
+}
+
+#Image1 {
+    width: 25vw;
+}
+
+#text2 {
+    margin: 5vw;
+}
